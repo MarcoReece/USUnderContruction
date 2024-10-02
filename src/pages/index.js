@@ -31,9 +31,9 @@ export default function Home() {
             <Image
               alt="Urban Spaces Realty Logo"
               src={Logo}
-              width={200}
+              width={250}
               height={80}
-              className="h-10 w-auto sm:h-20"
+              className="h-20 w-auto sm:h-20"
             />
           </a>
         </header>
