@@ -74,7 +74,7 @@ export default function Home() {
           <div className="border-t border-gray-100 bg-gray-50 py-10">
             <nav className="mx-auto flex w-full max-w-7xl flex-col items-start gap-x-4 gap-y-2 px-6 text-sm leading-7 text-gray-600 sm:flex-row sm:items-center lg:px-8">
               <a>Contact Peta-Ann:</a>
-              <a href="tel:+788021022">+78 802 1022</a>
+              <a href="tel:+788021022">078 802 1022</a>
               <a href="mailto:peta-ann@urbanspacesrealty.com">
                 peta-ann@urbanspacesrealty.com
               </a>
